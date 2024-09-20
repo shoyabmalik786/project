@@ -68,7 +68,7 @@ body {
 
 header {
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("/img/delhi1.jpg");
+    url("./img/delhi1.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
